@@ -1,4 +1,9 @@
-#include "putchar.h"
+#include "main.h"
+/**
+ * main - Entry point
+ * Description: prints 'Holberton \n'
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 char str[] = "_putchar\n";
