@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts - a function the print a string
- * str@: a pointer the point to a variable to be updated
+ * @str: a pointer the point to a variable to be updated
  *
  * return nothing
  */
